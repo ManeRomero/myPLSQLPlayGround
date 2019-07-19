@@ -69,10 +69,3 @@ CREATE OR REPLACE FUNCTION f_sumar (num1, num2) RETURN NUMBER IS
 BEGIN
     return num1 + num2
 END;
-
-**BRUTALTRICKS!**
-
-En el punto
-
-
-
