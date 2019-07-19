@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\bin\Debug\netcoreapp2.2\PLSQLApiConnect.deps.json
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\bin\Debug\netcoreapp2.2\PLSQLApiConnect.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\bin\Debug\netcoreapp2.2\PLSQLApiConnect.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\bin\Debug\netcoreapp2.2\PLSQLApiConnect.dll
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\obj\Debug\netcoreapp2.2\PLSQLApiConnect.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\obj\Debug\netcoreapp2.2\PLSQLApiConnect.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\obj\Debug\netcoreapp2.2\PLSQLApiConnect.RazorAssemblyInfo.cache
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\obj\Debug\netcoreapp2.2\PLSQLApiConnect.RazorAssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\obj\Debug\netcoreapp2.2\PLSQLApiConnect.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\obj\Debug\netcoreapp2.2\PLSQLApiConnect.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\PLSQLApiConnect\PLSQLApiConnect\obj\Debug\netcoreapp2.2\PLSQLApiConnect.RazorTargetAssemblyInfo.cache
